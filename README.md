@@ -1,1 +1,2 @@
-# Django-weatherdetector
+# Django-projects
+
